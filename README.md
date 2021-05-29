@@ -1,1 +1,1 @@
-# Cnavas_Touch
+# Canvas_Responsive_Paint
